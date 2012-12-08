@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ammo-js</artifactId>
-    <version>0bafe48a77-SNAPSHOT</version>
+    <version>0bafe48a77</version>
     <name>ammo.js</name>
     <description>WebJar for ammo.js</description>
     <url>http://webjars.org</url>
@@ -28,7 +28,7 @@
         <url>http://github.com/webjars/ammo-js</url>
         <connection>scm:git:https://github.com/webjars/ammo-js.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/ammo-js.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>ammo-js-0bafe48a77</tag>
     </scm>
 
     <developers>
